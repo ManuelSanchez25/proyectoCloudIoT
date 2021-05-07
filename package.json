@@ -1,9 +1,9 @@
 {
-  "name": "SistemaDeRiego",
+  "name": "sistemaderiego",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "amazon-cognito-identity-js": "^4.6.0",
